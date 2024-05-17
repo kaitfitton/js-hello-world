@@ -1,10 +1,13 @@
+git config --user.email "kaitlynfitton23@gmail.com"
+git config --user.name "kaitfitton"
 /*  
 Welcome, new coder. 
 Enter your code on line 7 to print 'Hello, World!' 
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log ("Hello World");
+
 
 /*  
 Next, PLAY! 
@@ -20,3 +23,4 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
    9. Other. You choose!
 */
+played around with hello world
